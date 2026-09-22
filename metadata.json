@@ -1,0 +1,6 @@
+{
+  "name": "Habit",
+  "description": "Habit Tracker and Task Manager designed with Apple iOS craftsmanship, featuring interactive streak heatmaps, gamified island progression, and focus sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
